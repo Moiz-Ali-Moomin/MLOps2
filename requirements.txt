@@ -1,0 +1,7 @@
+numpy
+keras
+tensorflow
+pandas
+sklearn
+wheel
+scikit-learn
