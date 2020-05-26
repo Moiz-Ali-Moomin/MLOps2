@@ -1,6 +1,6 @@
 # MLOps2 
 
-___ integrating Machine learning with devops Jenkins to train and deploy the ml code
+_integrating Machine learning with devops Jenkins to train and deploy the ml code
 
 # Documentation for setting up the program visit
 
