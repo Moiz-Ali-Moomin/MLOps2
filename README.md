@@ -1,6 +1,6 @@
-# MLOps2 
+# MLOpsTask3 
 
-_integrating Machine learning with devops Jenkins to train and deploy the ml code
+___Integrating Machine learning with devops Jenkins to train and deploy the ml code___
 
 # Documentation for setting up the program visit
 
